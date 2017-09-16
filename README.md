@@ -154,11 +154,9 @@ Node.JS – отличный выбор в ситуации, когда нужн
 
 ### Ссылки
 
-[Репозиторий на GitHub](https://github.com/Yamblz-Iceberg/iceberg-api)<br>
-[Документация на Apiary](http://docs.icebergproject.apiary.io/)
-[Схема базы данных](https://iceberg-project.herokuapp.com/db-diagram.html)
-
-_(Тут должна быть ссылка на readme, apiary и страницу с визуализацией базы данных)_
+- [Репозиторий на GitHub](https://github.com/Yamblz-Iceberg/iceberg-api)
+- [Документация на Apiary](http://docs.icebergproject.apiary.io/)
+- [Схема базы данных](https://iceberg-project.herokuapp.com/db-diagram.html)
 
 ## Коммуникация и командная работа
 
