@@ -45,6 +45,10 @@
 
 <div style="page-break-after: always;"></div>
 
+## Структура проекта
+
+![Diagram](https://user-images.githubusercontent.com/6384271/30516136-e65b763e-9b3e-11e7-8436-f31c3f6a7697.png)
+
 ## Фронтенд
 
 ### Архитектура
