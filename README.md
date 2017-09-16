@@ -1,8 +1,6 @@
-<h1>Айсберг</h1>
+<h1>Айсберг.Технический отчёт</h1>
 
 ![iceberg-logo](https://avatars3.githubusercontent.com/u/31369188?v=4&s=200)
-
-<h2>Технический отчёт</h2>
 
 <div style="page-break-after: always;"></div>
 
